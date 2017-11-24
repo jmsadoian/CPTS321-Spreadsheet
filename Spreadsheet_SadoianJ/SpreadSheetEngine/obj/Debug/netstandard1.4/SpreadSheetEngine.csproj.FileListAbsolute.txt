@@ -1,0 +1,8 @@
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\bin\Debug\netstandard1.4\SpreadSheetEngine.deps.json
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\bin\Debug\netstandard1.4\SpreadSheetEngine.dll
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\bin\Debug\netstandard1.4\SpreadSheetEngine.pdb
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\obj\Debug\netstandard1.4\SpreadSheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\obj\Debug\netstandard1.4\SpreadSheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\obj\Debug\netstandard1.4\SpreadSheetEngine.AssemblyInfo.cs
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\obj\Debug\netstandard1.4\SpreadSheetEngine.dll
+C:\Users\jmsad\Desktop\Spreadsheet_SadoianJ\SpreadSheetEngine\obj\Debug\netstandard1.4\SpreadSheetEngine.pdb
